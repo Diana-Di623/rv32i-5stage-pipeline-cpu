@@ -1,0 +1,10 @@
+*.jou
+*.log
+*.pb
+*.str
+*.vcd
+*.wdb
+*.wcfg
+*.out
+.Xil/
+xsim.dir/
