@@ -4,6 +4,8 @@ A synthesizable five-stage RV32I processor implemented in Verilog. The design us
 
 ## Architecture
 
+![Five-stage RV32I pipeline datapath](docs/pipeline-datapath.png)
+
 ```text
 IF -> IF/ID -> ID -> ID/EX -> EX -> EX/MEM -> MEM -> MEM/WB -> WB
 ```
